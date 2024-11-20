@@ -4,8 +4,7 @@ pg3391
 #pg3391
 @pg3391 
 Pankaj Gupta's Blog Docqs.in
-
-`
+``` bash
 #!/usr/bin/env bash
 
 set -euo pipefail
@@ -141,4 +140,4 @@ if [ "$CLEANUP_NAMESPACE" == "true" ]; then
 fi
 
 exit $result
-1
+```
