@@ -1,3 +1,4 @@
+# Blog: for trino https://github.com/alexcpn/presto_in_kubernetes
 # trino-server
 
 pg3391 
